@@ -1,4 +1,6 @@
 x64/
-.dll
+*.dll
 fftest.c
-.vcxproj
+PBFDKF.vcxproj
+PBFDKF.vcxproj.filters
+PBFDKF.vcxproj.user
